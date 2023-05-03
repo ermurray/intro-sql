@@ -2,14 +2,15 @@
 LightHouse Labs Lecture intro to SQL notes
 
 # TOPICS
-- [x] Intro to RDBMS
-- [x] Relational data model
-- [x] `SELECT` statements
-- [x] Filtering and ordering
-- [x] Joining tabels
-- [x] Grouping records
-- [x] Aggregation functions
-- [x] `LIMIT` and `OFFSET` ?
+- [ ] Intro to RDBMS
+- [ ] Relational data model
+- [ ] DDL vs DML
+- [ ] `SELECT` statements
+- [ ] Filtering and ordering
+- [ ] Joining tabels
+- [ ] Grouping records
+- [ ] Aggregation functions
+- [ ] `LIMIT` and `OFFSET` ?
 
 
 ### RDBMS
