@@ -18,10 +18,11 @@ CREATE TABLE songs (
   run_time INTERVAL
 );
 
-INSERT INTO albums (album_name, artist_name, release_date, genre)
-VALUES  ('Valentine', 'Snail Mail', 'November 5, 2021', 'indie rock'),
-        ('Sweetener', 'Ariana Grande', 'August 17, 2018', 'pop'),
-        ('To Pimp A Butterfly', 'Kendrick Lamar', 'March 16, 2015', 'hip hop'), 
+INSERT INTO albums
+              (album_name,   artist_name,  release_date,       genre)
+      VALUES  ('Valentine', 'Snail Mail', 'November 5, 2021', 'indie rock'),
+              ('Sweetener', 'Ariana Grande', 'August 17, 2018', 'pop'),
+              ('To Pimp A Butterfly', 'Kendrick Lamar', 'March 16, 2015', 'hip hop'), 
         ('Bury Me At Makeout Creek', 'Mitski', 'November 11, 2014', 'indie rock'),
         ('Blue', 'Joni Mitchell', 'June 22, 1971', 'folk'),
         ('channel ORANGE', 'Frank Ocean', 'July 10, 2012', 'R&B'),
