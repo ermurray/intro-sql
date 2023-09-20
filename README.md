@@ -1,6 +1,8 @@
 # intro-sql
 LightHouse Labs Lecture intro to SQL notes
 
+[Lecture Repo](https://github.com/ermurray/intro-sql/tree/july10-wll) | [Lecture Recording](https://vimeo.com/866209133/6e31cfd59e?share=copy)
+
 # TOPICS
 - [ ] Intro to RDBMS
 - [ ] Relational data model
